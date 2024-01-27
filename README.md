@@ -2,6 +2,11 @@
 <br>
 <h2>1.</h2><br>
 <p>{ <br> "universitas" :"Djuanda",<br> "prodi" : "ilmu Koputer" <br>}</p>
+<br>
+<p>
+Middleware adalah perangkat lunak yang menjembatani aplikasi, data, dan pengguna. Middleware membantu menyederhanakan pengembangan aplikasi dengan menangani tugas-tugas umum seperti transformasi data, komunikasi, dan keamanan.</p><br>
+<br>
+<h2>2.</h2><br>
 # Tabel Perbedaan Arsitektur Monolithic dan Microservices
 
 | Karakteristik | Arsitektur Monolithic | Arsitektur Microservices |
