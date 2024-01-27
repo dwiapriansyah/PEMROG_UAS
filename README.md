@@ -22,10 +22,22 @@ Middleware adalah perangkat lunak yang menjembatani aplikasi, data, dan pengguna
 Abstraksi Kompleksitas<br>Reusabilitas</p>
 <br>
 <h2>4.</h2><br>
-<p>4.	Unit testing adalah jenis pengujian perangkat lunak yang dilakukan pada level terkecil yaitu unit-unit terkecil dari kode sumber, seperti fungsi, metode, atau kelas individu.</p><br>
+<p>Unit testing adalah jenis pengujian perangkat lunak yang dilakukan pada level terkecil yaitu unit-unit terkecil dari kode sumber, seperti fungsi, metode, atau kelas individu.</p><br>
 <h3>Metode yang ada pada unit testing</h3>
 <br>
 <p>Metode Setup dan Teardown.<br>
 Mocking dan Stubbing<br>Metode Assert s</p>
+<br>
+<h2>5.</h2><br>
+<h3>KONTAINERISASI</h3>
+<p>Kontainerisasi adalah teknologi yang memungkinkan pengemasan, pengiriman, dan menjalankan aplikasi dan layanan perangkat lunak dalam lingkungan yang terisolasi yang disebut "kontainer".</p>
+<br>
+<h2>6.</h2><br>
+<p>
+CI/CD adalah singkatan dari Continuous Integration dan Continuous Deployment.</p><br>
+<h3>Berikut adalah beberapa tools yang umum digunakan untuk CI/CD :</h3>
+<br>
+<p>Jenkins<br>
+GitLab CI/CD<br>Travis CI</p>
 <br>
 <p> Black box testing <br>
