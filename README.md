@@ -18,14 +18,14 @@
 Middleware adalah perangkat lunak yang menjembatani aplikasi, data, dan pengguna. Middleware membantu menyederhanakan pengembangan aplikasi dengan menangani tugas-tugas umum seperti transformasi data, komunikasi, dan keamanan.</p><br>
 <h3>Berikut adalah beberapa keuntungan dari penerapan middleware dalam pengembangan perangkat lunak:</h3>
 <br>
-<p>Menyederhanakan pengembangan aplikasi.<br>
-Abstraksi Kompleksitas<br>Meningkatkan skalabilitas</p>
+<p>Interoperabilitas<br>
+Abstraksi Kompleksitas<br>Reusabilitas</p>
 <br>
 <h2>4.</h2><br>
 <p>4.	Unit testing adalah jenis pengujian perangkat lunak yang dilakukan pada level terkecil yaitu unit-unit terkecil dari kode sumber, seperti fungsi, metode, atau kelas individu.</p><br>
 <h3>Metode yang ada pada unit testing</h3>
 <br>
-<p>Metode Setup dan Teardowni.<br>
-Abstraksi Kompleksitas<br>Meningkatkan skalabilitas</p>
+<p>Metode Setup dan Teardown.<br>
+Mocking dan Stubbing<br>Metode Assert s</p>
 <br>
 <p> Black box testing <br>
