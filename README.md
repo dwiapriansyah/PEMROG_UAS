@@ -26,18 +26,29 @@ Abstraksi Kompleksitas<br>Reusabilitas</p>
 <h3>Metode yang ada pada unit testing</h3>
 <br>
 <p>Metode Setup dan Teardown.<br>
-Mocking dan Stubbing<br>Metode Assert s</p>
+Mocking dan Stubbing<br>Metode Assert</p>
 <br>
 <h2>5.</h2><br>
 <h3>KONTAINERISASI</h3>
 <p>Kontainerisasi adalah teknologi yang memungkinkan pengemasan, pengiriman, dan menjalankan aplikasi dan layanan perangkat lunak dalam lingkungan yang terisolasi yang disebut "kontainer".</p>
 <br>
+<h3>DOCKER</h3>
+<p>Docker adalah salah satu platform kontainerisasi yang sangat popular.</p>
+<br>
+<h3>KUBERNETES</h3>
+<p>Kubernetes (biasa disebut "K8s") adalah sistem manajemen orkestrasi kontainer yang digunakan untuk menyusun, mengelola, dan menyebarluaskan aplikasi kontainer yang kompleks.</p>
+<br>
 <h2>6.</h2><br>
 <p>
 CI/CD adalah singkatan dari Continuous Integration dan Continuous Deployment.</p><br>
+<h3>Continuous Integration (CI) </h3>
+<p>Continuous Integration (CI) adalah praktik di mana pengembang menggabungkan kode mereka ke dalam repositori bersama secara teratur dan sering.</p>
+<br>
+<h3>Continuous Deployment (CD) </h3>
+<p>	Continuous Deployment (CD) adalah praktik di mana perubahan kode yang telah lulus pengujian secara otomatis dideploy ke lingkungan produksi.</p>
+<br>
 <h3>Berikut adalah beberapa tools yang umum digunakan untuk CI/CD :</h3>
 <br>
 <p>Jenkins<br>
 GitLab CI/CD<br>Travis CI</p>
 <br>
-<p> Black box testing <br>
