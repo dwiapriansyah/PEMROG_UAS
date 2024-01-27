@@ -45,7 +45,7 @@ CI/CD adalah singkatan dari Continuous Integration dan Continuous Deployment.</p
 <p>Continuous Integration (CI) adalah praktik di mana pengembang menggabungkan kode mereka ke dalam repositori bersama secara teratur dan sering.</p>
 <br>
 <h3>Continuous Deployment (CD) </h3>
-<p>	Continuous Deployment (CD) adalah praktik di mana perubahan kode yang telah lulus pengujian secara otomatis dideploy ke lingkungan produksi.</p>
+<p>Continuous Deployment (CD) adalah praktik di mana perubahan kode yang telah lulus pengujian secara otomatis dideploy ke lingkungan produksi.</p>
 <br>
 <h3>Berikut adalah beberapa tools yang umum digunakan untuk CI/CD :</h3>
 <br>
